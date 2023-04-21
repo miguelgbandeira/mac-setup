@@ -1,0 +1,13 @@
+alfred
+aldente
+bitwarden
+authy
+bear-app
+brave-browser
+cryptomator
+discord
+google-chrome
+hiddenbar
+qbittorrent
+stremio
+itsycal
